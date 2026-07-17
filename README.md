@@ -1,3 +1,58 @@
+# Shop-Mart
+
+Small React + Vite storefront demo.
+
+## Requirements
+
+- Node 16+ (recommended Node 18+)
+
+## Setup
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+Preview production build locally:
+
+```bash
+npm run preview
+```
+
+Lint the project:
+
+```bash
+npm run lint
+```
+
+## Tech
+
+- Vite
+- React
+- Tailwind CSS
+
+## Project structure
+
+- `src/` — application source
+- `src/components/` — React components
+
+## Notes
+
+This project uses the scripts defined in `package.json` (`dev`, `build`, `preview`, `lint`).
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
